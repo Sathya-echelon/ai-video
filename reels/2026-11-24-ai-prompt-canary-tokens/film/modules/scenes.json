@@ -1,0 +1,77 @@
+{
+ "v": 1,
+ "stage": "final",
+ "look": "Sathya's AI for Real Life collage reel series: white paper-texture wall with grey vignette and drifting window / spot / soft light; full-colour pop-art sticker cut-outs pinned with heavy soft drop shadows; brand accents pink #FB3779 and blue #3C46FD only; pro camera rig travelling a tall world with parallax back plane, handheld drift, dutch tilts, snap punch-ins and whip cuts; Morven kicker over huge Allenoire headlines with random-letter reveals, Regarn Black tapes, stamps and nodes, hand-drawn pink wires and arrows; a ghost outline word behind every scene; AI for Real Life logo end card. Fonts are Sathya's files: Allenoire-400, Morven-400, Regarn 100/400/700/900. Instagram Reel 9:16, cut to the 24 Nov 2026 canary-token script's timecodes, no voice-over, SFX-only score, text inside the Reels safe zone. rich",
+ "palettes": [
+  [
+   "#D6D6D6",
+   "#FB3779",
+   "#2A2A2A",
+   "#3C46FD"
+  ]
+ ],
+ "theirs": 1,
+ "width": 1080,
+ "height": 1920,
+ "fps": 30,
+ "background": "#D6D6D6",
+ "fonts": {
+  "sans": "plus-jakarta-sans"
+ },
+ "scenes": [
+  {
+   "id": "hook",
+   "name": "The fake key",
+   "dur": 5.0,
+   "desc": "Frame 0 mid-action: a typist hammers an AWS access key into a chat box, the key sticker pinned beside it; a stamp slams THIS KEY IS FAKE."
+  },
+  {
+   "id": "toggle",
+   "name": "Zero Data Retention",
+   "dur": 9.0,
+   "desc": "A vendor settings panel; the Zero Data Retention switch slides on, a tick lands, and the audit is declared done."
+  },
+  {
+   "id": "tested",
+   "name": "They tested it",
+   "dur": 5.0,
+   "desc": "The settings panel greys out and slides away as a world map wakes up under a loupe; Dragos did not read the page."
+  },
+  {
+   "id": "decoy",
+   "name": "One decoy",
+   "dur": 8.0,
+   "desc": "One prompt splits along drawn pink wires into a one-off URL card and a unique AWS key card, with a canary perched between them."
+  },
+  {
+   "id": "trap",
+   "name": "The watched account",
+   "dur": 8.0,
+   "desc": "The wire runs into an empty AWS account behind a vault door while an eye opens above it; the moment it is touched, LEAKED slams down."
+  },
+  {
+   "id": "scale",
+   "name": "Two million",
+   "dur": 10.0,
+   "desc": "A counter climbs to 2,000,000 as a calendar burns from July to November and three servers go pink one by one."
+  },
+  {
+   "id": "verdict",
+   "name": "A claim, not a control",
+   "dur": 10.0,
+   "desc": "The ZERO DATA RETENTION badge is stamped, then two thirds of it floods pink as the fraction counts up."
+  },
+  {
+   "id": "close",
+   "name": "Plant one",
+   "dur": 7.0,
+   "desc": "Back on the fake key; a red pen strikes it through under SEND NOTHING YOU CAN'T BURN."
+  },
+  {
+   "id": "brand",
+   "name": "AI for Real Life",
+   "dur": 2.4,
+   "desc": "End card: the AI for Real Life logo pops onto the brand blue."
+  }
+ ]
+}
