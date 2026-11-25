@@ -12,3 +12,4 @@ Style, fonts, SFX library and the nine reference reels live in
 | Reel | Date | Topic |
 |---|---|---|
 | [2026-11-24](reels/2026-11-24-ai-prompt-canary-tokens/) | 24 Nov 2026 | AI prompt canary tokens |
+| [2026-11-25](reels/2026-11-25-ternary-weights-27b-local/) | 25 Nov 2026 | Ternary weights: a 27B coding model in 5.9 GB |

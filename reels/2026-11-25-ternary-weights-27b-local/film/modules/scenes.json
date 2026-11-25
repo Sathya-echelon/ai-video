@@ -1,0 +1,26 @@
+{
+ "v": 1,
+ "stage": "final",
+ "lang": "en",
+ "look": "Sathya's AI for Real Life collage reel series: white paper-texture wall with grey vignette and drifting window / spot / soft light; full-colour pop-art sticker cut-outs pinned with heavy soft drop shadows; brand accents pink #FB3779 and blue #3C46FD only; pro camera rig travelling a tall world with parallax back plane, handheld drift, dutch tilts, snap punch-ins and whip cuts; Morven kicker over huge Allenoire headlines with random-letter reveals, Regarn Black tapes, stamps and nodes, hand-drawn pink wires and arrows; a ghost outline word behind every scene; AI for Real Life logo end card. Fonts are Sathya's files: Allenoire-400, Morven-400, Regarn 100/400/700/900. Instagram Reel 9:16, cut to the 25 Nov 2026 ternary-weights script's timecodes, no voice-over, SFX-only score, text inside the Reels safe zone. rich",
+ "palettes": [["#D6D6D6", "#FB3779", "#2A2A2A", "#3C46FD"]],
+ "theirs": 1,
+ "width": 1080,
+ "height": 1920,
+ "fps": 30,
+ "background": "#D6D6D6",
+ "fonts": { "sans": "plus-jakarta-sans" },
+ "scenes": [
+  { "id": "hook", "name": "Both are real", "dur": 5.0, "desc": "Two pinned rows on the paper wall: a model file at 5.9 GB in pink and 27 B parameters in blue; a stamp slams BOTH ARE REAL over a floppy disk." },
+  { "id": "float", "name": "Sixteen bits", "dur": 5.5, "desc": "One weight typed out as a long sixteen-bit decimal inside a paper panel, inspected under a magnifier; the label reads one weight, full precision." },
+  { "id": "fifty", "name": "Fifty four", "dur": 5.5, "desc": "A pink counter climbs to 54 GB as three servers drop in; the tag reads before any of your own code." },
+  { "id": "three", "name": "Sign only", "dur": 5.0, "desc": "The long decimal crumples and three filled blocks land: minus one in pink, zero in ink, plus one in blue." },
+  { "id": "grid", "name": "A direction", "dur": 7.0, "desc": "A grid of 128 cells fills in one by one, each holding a pink minus, a blue plus or a grey dot; a tape reads 128 weights beside a chip." },
+  { "id": "scalef", "name": "One scale factor", "dur": 6.5, "desc": "A panel holds one shared scale factor, 0.0412, and a drawn pink arrow carries it down into the grid; the headline reads under two bits, against sixteen." },
+  { "id": "train", "name": "During training", "dur": 9.0, "desc": "Top half: a hammer lands on a model rounded afterwards and a pink crack runs across it. The camera tilts to the lower half, where cells settle into the lattice beside a brain and a stamp reads NOT BOLTED ON." },
+  { "id": "bench", "name": "Verified", "dur": 7.0, "desc": "Two bars grow from one baseline, 75.6 in pink for the ternary model against 80.6 in blue for full precision, under a kicker naming PrismML's own SWE-bench Verified run and a tag reading no independent test yet." },
+  { "id": "local", "name": "Your own hardware", "dur": 6.0, "desc": "A laptop with a drawn pink cable that a plug is pulled clear of; the headline reads on your own hardware and the tag reads open weight, Apache 2.0." },
+  { "id": "close", "name": "Costs in bits", "dur": 5.5, "desc": "Back on the opening rows: the parameter row fades back while 5.9 GB stays lit, under the line ask what each one costs in bits." },
+  { "id": "brand", "name": "AI for Real Life", "dur": 2.4, "desc": "End card: the AI for Real Life logo pops onto the brand blue." }
+ ]
+}
