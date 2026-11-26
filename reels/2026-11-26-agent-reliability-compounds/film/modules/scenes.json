@@ -1,0 +1,23 @@
+{
+ "v": 1,
+ "stage": "final",
+ "look": "Sathya's AI for Real Life collage reel series: white paper-texture wall with grey vignette and drifting window / spot / soft light; full-colour pop-art sticker cut-outs pinned with heavy soft drop shadows; brand accents pink #FB3779 and blue #3C46FD only; pro camera rig travelling a tall world with parallax back plane, handheld drift, dutch tilts, snap punch-ins and whip cuts; Morven kicker over huge Allenoire headlines with random-letter reveals, Regarn Black tapes, stamps and nodes, hand-drawn pink curves and chains, a ghost outline word behind every scene; AI for Real Life logo end card. Fonts are Sathya's files: Allenoire-400, Morven-400, Regarn 100/400/700/900. Instagram Reel 9:16, cut to the 26 Nov 2026 agent-reliability script's timecodes, no voice-over, SFX-only score, text inside the Reels safe zone. rich",
+ "palettes": [["#D6D6D6", "#FB3779", "#2A2A2A", "#3C46FD"]],
+ "theirs": 1,
+ "width": 1080,
+ "height": 1920,
+ "fps": 30,
+ "background": "#D6D6D6",
+ "fonts": { "sans": "plus-jakarta-sans" },
+ "scenes": [
+  { "id": "hook", "dur": 5.0, "name": "95% becomes 36%", "desc": "Frame 0 mid-action: TWENTY STEPS over a calculator card typing 0.95 ^ 20 =, a typist hammering beside it; the result counts to 0.3585 and a pink stamp slams 36%." },
+  { "id": "slide", "dur": 10.0, "name": "One number on a slide", "desc": "A vendor deck panel shows one huge 95% ACCURATE badge with a dart planted in it; three tapes slam ONE TASK / ONE DEMO / ONE NUMBER, then the camera tilts down to HOW MANY STEPS, which nobody asks." },
+  { "id": "chain", "dur": 5.0, "name": "It multiplies", "desc": "Twenty pink links fill in across two rows; link seven goes grey and every link after it follows, under the headline IT MULTIPLIES." },
+  { "id": "power", "dur": 8.0, "name": "Success = R to the N", "desc": "The formula builds: SUCCESS = R with a raised N, a pink and a blue node naming each term, a reliability gauge ticking beside it." },
+  { "id": "curve", "dur": 9.0, "name": "The curve", "desc": "A pink curve draws down a drawn axis as markers land at 5: 77%, 10: 60%, 20: 36% and 50: 8%, with dominoes toppling below it." },
+  { "id": "study", "dur": 8.0, "name": "Nine models, 10,664 runs", "desc": "NINE MODELS over a counter climbing to 10,664 agent runs, a blue tape A GEOMETRIC LAW, then two nodes: step count kills you, not context length." },
+  { "id": "back", "dur": 10.0, "name": "Run it backwards", "desc": "To clear 90% the per-step figure counts up to 99.5% beside a climbing ladder; the camera tilts down to two bars, 42% expect autonomy by 2030 against 5% with the controls today." },
+  { "id": "close", "dur": 7.0, "name": "Put a checkpoint", "desc": "COUNT THE STEPS over a ten-link chain; a pink checkpoint flag drops onto the link where the curve crosses what you can afford to lose, a gavel landing beside it." },
+  { "id": "brand", "dur": 2.4, "name": "AI for Real Life", "desc": "End card: the AI for Real Life logo pops onto the brand blue." }
+ ]
+}

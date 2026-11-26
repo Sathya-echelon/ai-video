@@ -12,3 +12,4 @@ Style, fonts, SFX library and the nine reference reels live in
 | Reel | Date | Topic |
 |---|---|---|
 | [2026-11-24](reels/2026-11-24-ai-prompt-canary-tokens/) | 24 Nov 2026 | AI prompt canary tokens |
+| [2026-11-26](reels/2026-11-26-agent-reliability-compounds/) | 26 Nov 2026 | Why a "95% accurate" agent is a 36% workflow |
