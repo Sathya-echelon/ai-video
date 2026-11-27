@@ -1,0 +1,23 @@
+{
+ "v": 1,
+ "stage": "final",
+ "look": "Sathya's AI for Real Life collage reel series: white paper-texture wall with grey vignette and drifting window / spot / soft / dark light; full-colour pop-art sticker cut-outs pinned with heavy soft drop shadows; brand accents pink #FB3779 and blue #3C46FD only, blue for what passes and pink for what is wrong; pro camera rig travelling a tall world with parallax back plane, handheld drift, dutch tilts, snap punch-ins and whip cuts; Morven kicker over huge Allenoire headlines with random-letter reveals, Regarn Black tapes, stamps, rows and nodes, hand-drawn pink strokes; a ghost outline word behind every scene; AI for Real Life logo end card. Fonts are Sathya's files: Allenoire-400, Morven-400, Regarn 100/400/700/900. Instagram Reel 9:16, cut to the 27 Nov 2026 silent-failure script's timecodes, no voice-over, SFX-only score, text inside the Reels safe zone. rich",
+ "palettes": [["#D6D6D6", "#FB3779", "#2A2A2A", "#3C46FD"]],
+ "theirs": 1,
+ "width": 1080,
+ "height": 1920,
+ "fps": 30,
+ "background": "#D6D6D6",
+ "fonts": { "sans": "plus-jakarta-sans" },
+ "scenes": [
+  { "id": "hook", "dur": 5.0, "name": "100 ran, 31 right", "desc": "Frame 0 is the hook: a full blue bar reading 100% over a short pink bar stopped at 31%, both from one benchmark run; a gauge ticks beside them and a stamp slams IT RAN. IT'S WRONG." },
+  { "id": "ship", "dur": 7.0, "name": "They just run it", "desc": "A terminal types its way to status OPTIMAL and finished - 0 errors in blue while a hand works the mouse; IT SHIPS is stamped underneath." },
+  { "id": "paper", "dur": 7.0, "name": "Not a crash", "desc": "A paper drops in under a lower third dated 24 Nov 2026 and a loupe; the headline turns over from NOT A CRASH to A CLEAN ANSWER TO THE WRONG QUESTION." },
+  { "id": "blind", "dur": 9.5, "name": "It cannot see", "desc": "Split screen: the constraints on a clipboard land in blue on the left, the real warehouse rows land in pink on the right; the camera tilts down to an eye with a pink stroke drawn through it." },
+  { "id": "dropped", "dur": 9.5, "name": "Still valid", "desc": "Four rules land in a list, the shift limit greys out and is crumpled away, then the camera tilts down as a hand stamps OPTIMAL and a confident total counts up to 41,920." },
+  { "id": "repair", "dur": 7.0, "name": "Half a percent to 31", "desc": "A pink bar climbs from 0.5% to 31% beside a ladder, with the population and tolerance noted on tags underneath." },
+  { "id": "silent", "dur": 5.0, "name": "The rest is silent", "desc": "The repaired 31% holds while a hatched pink block floods the remaining 69% of the bar and the number counts up under the word SILENT." },
+  { "id": "test", "dur": 10.0, "name": "Change one input", "desc": "Three input cells land, a hand pushes the unit cost from 12.00 to 14.40 and it turns pink, the answer barely moves from 41,920 to 41,930, and a red flag drops and swings to rest." },
+  { "id": "brand", "dur": 2.4, "name": "AI for Real Life", "desc": "End card: the AI for Real Life logo pops onto the brand blue." }
+ ]
+}
